@@ -1,0 +1,8 @@
+#!name=Mac Setting
+#!desc=Mac代理设置
+#!system=mac
+
+[General]
+# macOS Only
+http-listen = 0.0.0.0:7890
+socks5-listen = 0.0.0.0:7891
